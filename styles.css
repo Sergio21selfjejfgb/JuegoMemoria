@@ -1,0 +1,40 @@
+#tablero {
+    
+    text-align: center;
+    margin-left: 25%;
+}
+
+.card {
+    width: 200px;
+    height: 180px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  .card img{
+    width: 100%;
+    height: 100%;
+  }
+  
+body{
+    text-align: center;
+    background-image: url(https://cdn.create.vista.com/api/media/small/468391194/stock-photo-colorful-geometric-background-mosaic-design);
+    background-repeat: no-repeat ;
+    background-size: 100%;
+    background-position: center;
+  }
+#titulo{
+    font-size: 3em;
+    color: white;
+    font-weight: bold;
+}
+#contador{
+  font-size: 2em;
+  color: white;
+  font-weight: bold;
+}
+#vidas{
+  font-size: 2em;
+  color: white;
+  font-weight: bold;
+}
+
